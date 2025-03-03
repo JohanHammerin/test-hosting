@@ -1,0 +1,8 @@
+html,
+body {
+  height: 100vh; /* Fyller hela viewportens höjd */
+  display: flex;
+  justify-content: center; /* Centrerar horisontellt */
+  align-items: center; /* Centrerar vertikalt */
+  margin: 0;
+}
